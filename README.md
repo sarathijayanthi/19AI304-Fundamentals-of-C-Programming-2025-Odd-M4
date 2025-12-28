@@ -41,7 +41,14 @@
 ### Step 14: 
   Stop
 # Program:
+<img width="782" height="582" alt="m4-16 1" src="https://github.com/user-attachments/assets/dea09174-71a0-47d1-9714-224659930a8e" />
+
+<img width="778" height="534" alt="m4-16 1 1" src="https://github.com/user-attachments/assets/40746b9d-a6ae-4633-943f-738ab5f9335f" />
+
 # Output:
+<img width="835" height="120" alt="m4-16 2 1" src="https://github.com/user-attachments/assets/8defee02-6603-4d88-8c30-90a01c7a3d3f" />
+<img width="780" height="124" alt="m4-16 2 2" src="https://github.com/user-attachments/assets/702adbc2-de52-4db9-b4a1-85481394ba61" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -89,7 +96,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 13: 
   Stop
 # Program:
+<img width="779" height="496" alt="m4-17 1" src="https://github.com/user-attachments/assets/804021b1-14bb-4bbb-a32b-b472f2a8a9ad" />
+
 # Output:
+<img width="792" height="160" alt="m4-17 2" src="https://github.com/user-attachments/assets/794ae3c5-aff4-4176-884f-7367e41690c7" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -137,7 +148,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11: 
  Stop
 # Program:
+<img width="781" height="580" alt="m4-18 1" src="https://github.com/user-attachments/assets/c13e5dcf-20ec-4645-8b8f-6bf96a71cdd8" />
+
 # Output:
+<img width="765" height="173" alt="m4-18 2" src="https://github.com/user-attachments/assets/8c1d0cd7-e393-41b9-9cc5-2e368aa9d11d" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -185,7 +200,12 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7: 
   Stop
 # Program:
+<img width="761" height="599" alt="m4-19 1 1" src="https://github.com/user-attachments/assets/e5729e90-1e4e-453d-b438-82e9fec0e0f3" />
+<img width="759" height="474" alt="m4-19 1 2" src="https://github.com/user-attachments/assets/3c1c92e8-d38d-46c3-aadd-9ba852ca672f" />
+
 # Output:
+<img width="832" height="247" alt="m4-19 2" src="https://github.com/user-attachments/assets/aeff541c-9304-495f-af73-3635539f6677" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -220,7 +240,12 @@ To build a C program to convert a string as described above, using a user-define
 ### Step 6: 
  Stop
 # Program:
+<img width="760" height="600" alt="m4-20 1" src="https://github.com/user-attachments/assets/e5aace77-8c00-4e4b-9229-1e85655f97c0" />
+<img width="801" height="410" alt="m4-20 1 2" src="https://github.com/user-attachments/assets/c2408219-6c42-4ac6-ba5d-3bd08fc6094f" />
+
 # Output:
+<img width="811" height="156" alt="m4-20 2" src="https://github.com/user-attachments/assets/76ca17a5-5069-42fc-9452-c2e3a57e19fc" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
